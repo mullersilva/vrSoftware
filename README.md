@@ -19,7 +19,7 @@ O projeto segue uma **arquitetura em camadas**, separando a lógica de negócio 
 ## Como Executar
 1. Certifique-se de ter o **Java 21** instalado.
 2. Instale o **Gradle 8.12.1+**.
-3. Configure o **PostgreSQL** e ajuste as credenciais no projeto (application.properties).
+3. Configure o **PostgreSQL** (arquivo VRDB.sql incluido no projeto) e ajuste as credenciais no projeto (application.properties).
 4. Clone este repositório:
    ```sh
    git clone https://github.com/mullersilva/Software.git
